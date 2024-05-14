@@ -36,9 +36,8 @@
     border-radius: 15px;
 
 }
-
 p.tag {
-    background-color: rgb(183, 216, 38);
+    background-color: rgb(72, 83, 23);
     display: inline-block;
     font-size: 0.8em;
     /* "em" es una medida relativa que depende del tamaño de la fuente que se tiene establecido */
